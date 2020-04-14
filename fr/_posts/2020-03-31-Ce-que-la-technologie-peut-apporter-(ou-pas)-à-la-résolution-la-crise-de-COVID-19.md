@@ -3,7 +3,12 @@ title: Quelles technologies pour sortir de la crise COVID-19
 layout: post
 author: laurent.maumet
 source-id: 1N9BlqZSFPWyWS8--wTJ_m-Og4A0BQANeHbV4Tp2oTXQ
-published: true
+lang_reference: covid
+lang: fr
+date: 
+intro_paragraph: ''
+categories: ''
+
 ---
 ### La sortie de crise de la pandémie de COVID-19 nécessitera l'utilisation d’outil numériques de suivi de la population.
 permalink: covid-numerique
@@ -71,4 +76,3 @@ Des équipes travaillent dessus Oxford, MIT, Allemagne. Il faut lancer une coop�
 [[2]	« When Is Anonymous Not Really Anonymous? – The Markup ». https://themarkup.org/ask-the-markup/2020/03/24/when-is-anonymous-not-really-anonymous (consulté le avr. 01, 2020).](https://www.zotero.org/google-docs/?1rDcct)
 
 [[3]	Y.-A. de Montjoye, C. A. Hidalgo, M. Verleysen, et V. D. Blondel, « Unique in the Crowd: The privacy bounds of human mobility », ](https://www.zotero.org/google-docs/?1rDcct)*[Sci. Rep*.](https://www.zotero.org/google-docs/?1rDcct)[, vol. 3, p. 1376, 2013, doi: 10.1038/srep01376.](https://www.zotero.org/google-docs/?1rDcct)
-
