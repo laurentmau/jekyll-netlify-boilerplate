@@ -7,6 +7,7 @@ intro_paragraph: pas d'intro
 categories: ''
 lang: fr
 lang_reference: new_post
+lang-ref: new_post
 
 ---
 bla bla en français
