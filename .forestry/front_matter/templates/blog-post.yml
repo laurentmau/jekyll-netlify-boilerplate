@@ -31,4 +31,5 @@ fields:
     required: false
   label: lang_reference
 pages:
+- en/_posts/2018-07-11-a-simple-post.md
 - en/_posts/2020-04-08-new-english-post.md
