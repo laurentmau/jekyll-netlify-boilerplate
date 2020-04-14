@@ -2,8 +2,11 @@
 layout: post
 title: Welcome to Jekyll!
 author: dan_urbanowicz
-date: 2018-07-03 12:00:00
+date: 2018-07-03T12:00:00.000+00:00
 categories: misc
+lang: en
+lang_reference: Welcome to Jekyll!
+intro_paragraph: ''
 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
