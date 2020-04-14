@@ -1,6 +1,6 @@
 <footer>
 
-  <small>C'est le site de Laurent</small>
+  <small>C'est le site de Laurent
 {% if page.layout != 'index' %}
     {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
     {% if posts.size == 0 %}
@@ -8,7 +8,7 @@
     {% endif %}
     {% if posts.size > 1 %}
     <footer class="lang-options">
-        <em>Read this page in a different language:</em>
+        <em>_</em>
         <ul>
         {% for post in posts %}
         <li><a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }} title="View in {{ site.data.languages[post.lang].icon }} {{ site.data.languages[post.lang].label }}
@@ -19,4 +19,5 @@
     </footer>
     {% endif %}
 {% endif %}
+          </small>
 </footer>
