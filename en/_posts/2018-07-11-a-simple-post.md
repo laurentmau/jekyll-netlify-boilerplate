@@ -7,6 +7,7 @@ intro_paragraph: no intro
 categories: ''
 lang: en
 lang_reference: new_post
+lang-ref: new_post
 
 ---
 The post in English
