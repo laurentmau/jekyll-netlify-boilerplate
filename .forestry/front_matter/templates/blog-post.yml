@@ -20,5 +20,15 @@ fields:
 - type: text
   name: categories
   label: categories
+- name: lang
+  type: text
+  config:
+    required: false
+  label: lang
+- name: lang_reference
+  type: text
+  config:
+    required: false
+  label: lang_reference
 pages:
 - en/_posts/2020-04-08-new-english-post.md
