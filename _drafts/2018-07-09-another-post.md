@@ -2,7 +2,7 @@
 layout: post
 title: Another post
 author: john_doe
-date: 2018-07-06 12:00:00
+date: 2018-07-06T12:00:00.000+00:00
 categories: misc
 
 ---
