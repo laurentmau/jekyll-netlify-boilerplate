@@ -20,3 +20,5 @@ fields:
 - type: text
   name: categories
   label: categories
+pages:
+- en/_posts/new-english-post.md
