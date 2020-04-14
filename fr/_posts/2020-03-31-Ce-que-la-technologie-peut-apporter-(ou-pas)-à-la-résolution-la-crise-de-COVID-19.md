@@ -2,11 +2,11 @@
 title: Quelles technologies pour sortir de la crise COVID-19
 layout: post
 author: laurent.maumet
-permalink: covid-numerique
 source-id: 1N9BlqZSFPWyWS8--wTJ_m-Og4A0BQANeHbV4Tp2oTXQ
 published: true
 ---
 ### La sortie de crise de la pandémie de COVID-19 nécessitera l'utilisation d’outil numériques de suivi de la population.
+permalink: covid-numerique
 
 En l'absence de vaccin et de traitement disponibles, combattre l’épidémie de COVID-19 passe une identification et une mise en quarantaine des personnes atteintes. 
 
