@@ -1,5 +1,5 @@
 ---
-title: Quelles tehcnologies pour sortir de la crise COVID-19
+title: Quelles technologies pour sortir de la crise COVID-19
 layout: post
 author: laurent.maumet
 permalink: covid-numerique
