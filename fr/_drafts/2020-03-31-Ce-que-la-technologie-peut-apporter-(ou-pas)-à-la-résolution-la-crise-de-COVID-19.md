@@ -5,7 +5,7 @@ author: laurent.maumet
 source-id: 1N9BlqZSFPWyWS8--wTJ_m-Og4A0BQANeHbV4Tp2oTXQ
 lang_reference: covid
 lang: fr
-date: 2020-04-13 22:00:00 +0000
+date: 2020-04-13T22:00:00.000+00:00
 intro_paragraph: ''
 categories: ''
 
