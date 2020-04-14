@@ -25,11 +25,11 @@ fields:
   config:
     required: false
   label: lang
-- name: lang_reference
+- name: lang-ref
   type: text
   config:
     required: false
-  label: lang_reference
+  label: lang-ref
 pages:
 - _posts/2018-02-23-welcome-to-jekyll.md
 - _posts/2018-07-09-another-post.md
