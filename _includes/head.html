@@ -7,4 +7,18 @@
     {% include analytics.html %}
   {% endif %}
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {% if page.layout != 'index' %}
+  {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+  {% if posts.size == 0 %}
+    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+  {% endif %}
+  {% if posts.size > 1 %}
+    {% for post in posts %}
+  <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.base-url }}{{ post.url }}" />
+    {% endfor %}
+  {% endif %}
+{% endif %}
+  
+  
+  
 </head>
