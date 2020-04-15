@@ -25,7 +25,7 @@ layout: default
             {% endif %}
           </small>
         </time>
-        {{ post.excerpt | strip_newlines | truncate: 180 }}
+        {{ post.excerpt | strip_newlines | strip_html | truncate: 180 }}
       </li>
     {% endfor %}
   </ul>
