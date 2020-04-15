@@ -53,15 +53,15 @@ defaults:
       section: "post" # set the root section name
     -
      scope:
-         path: en
+         path: "en"
      values:
-         lang: en
+         lang: "en"
          base-url: "/en/"
     -
      scope:
-         path: fr
+         path: "fr"
      values:
-         lang: fr
+         lang: "fr"
          base-url: "/fr/"      
 
 # Build settings
