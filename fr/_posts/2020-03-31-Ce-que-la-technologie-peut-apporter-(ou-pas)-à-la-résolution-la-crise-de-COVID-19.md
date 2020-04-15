@@ -7,7 +7,7 @@ lang_reference: covid
 lang: fr
 date: 2020-04-13T22:00:00.000+00:00
 intro_paragraph: ''
-categories: ''
+categories: COVID-19
 lang-ref: covid
 
 ---

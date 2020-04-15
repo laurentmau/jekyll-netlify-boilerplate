@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Jekyll!
 author: dan_urbanowicz
 date: 2018-07-03T12:00:00.000+00:00
-categories: misc
+categories: []
 lang: en
 lang_reference: Welcome to Jekyll!
 intro_paragraph: ''
