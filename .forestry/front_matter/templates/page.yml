@@ -29,4 +29,5 @@ fields:
   label: lang-ref
 pages:
 - pages/blog.md
+- pages/categories.md
 - pages/index.md
