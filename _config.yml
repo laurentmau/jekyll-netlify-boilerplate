@@ -62,7 +62,8 @@ defaults:
          path: "fr"
      values:
          lang: "fr"
-         base-url: "/fr/"      
+         base-url: "/fr/"    
+    -
 
 # Build settings
 markdown: kramdown
