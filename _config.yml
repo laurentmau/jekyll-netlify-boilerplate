@@ -53,9 +53,9 @@ defaults:
       section: "post" # set the root section name
     -
      scope:
-         lang: fr
          path: en
      values:
+         lang: en
          base-url: "/en/"
     -
      scope:
