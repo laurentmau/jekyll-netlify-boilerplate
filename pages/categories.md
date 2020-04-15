@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: categories
 title: Categories
 permalink: "/categories"
 section: Categories
@@ -8,13 +8,3 @@ lang: en
 lang-ref: categories
 
 ---
-
-
-bla bla
-
-
-vxc
-v
-xcv
-xc
-v
