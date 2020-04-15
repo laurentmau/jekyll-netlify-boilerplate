@@ -12,13 +12,24 @@ layout: default
 
     <h3>From the blog</h3>
 
+    <ul>
+    {% for post in site.posts %}
+    {% assign author = site.data.authors[post.author] %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <time datetime="{{ post.date }}">
+          <small>
+            <strong>{{ post.date | date_to_string }}</strong>
+            {% if author %}
+              by {{ author.name }}
+            {% endif %}
+          </small>
+        </time>
+      </li>
+    {% endfor %}
+  </ul>
     
-      {% for post in site.posts %}
-        
-         {{ site.data.languages[post.lang].icon }}  <a href="{{ post.url }}">{{ post.title }}</a><br> <br>
-         
-       
-      {% endfor %}
+    
     
 
   </section>
