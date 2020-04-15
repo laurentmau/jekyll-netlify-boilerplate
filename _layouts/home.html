@@ -19,6 +19,7 @@ layout: default
       
         <time datetime="{{ post.date }}">
           <small>
+            {{ site.data.languages[post.lang].icon }}
             <strong>{{ post.date | date_to_string }}</strong>
           </small>
         </time>
