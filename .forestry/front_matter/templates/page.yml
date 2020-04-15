@@ -17,3 +17,13 @@ fields:
 - type: textarea
   name: intro_paragraph
   label: intro_paragraph
+- name: lang
+  type: text
+  config:
+    required: false
+  label: lang
+- name: lang-ref
+  type: text
+  config:
+    required: false
+  label: lang-ref
