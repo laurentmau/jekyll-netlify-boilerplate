@@ -4,7 +4,7 @@ title: Categories
 permalink: "/categories"
 section: ''
 intro_paragraph: ''
-lang: ''
-lang-ref: ''
+lang: en
+lang-ref: categories
 
 ---
