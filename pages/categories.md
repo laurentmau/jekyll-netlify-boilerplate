@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: page
 title: Categories
 section: ''
 intro_paragraph: ''
