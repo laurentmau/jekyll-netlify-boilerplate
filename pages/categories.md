@@ -2,8 +2,8 @@
 layout: page
 title: Categories
 permalink: "/categories"
-section: ''
-intro_paragraph: ''
+section: Categories
+intro_paragraph: These are the categories
 lang: en
 lang-ref: categories
 
