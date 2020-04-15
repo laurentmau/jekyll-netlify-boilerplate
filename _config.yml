@@ -51,18 +51,7 @@ defaults:
       layout: "post" # set the correct default template for a post
       section: "post" # set the root section name
     -
-     scope:
-         path: "en"
-     values:
-         lang: "en"
-         base-url: "/en/"
-    -
-     scope:
-         path: "fr"
-     values:
-         lang: "fr"
-         base-url: "/fr/"    
-    -
+    
 
 # Build settings
 markdown: kramdown
