@@ -27,3 +27,5 @@ fields:
   config:
     required: false
   label: lang-ref
+pages:
+- pages/index.md
