@@ -4,7 +4,7 @@ title: Nouveau post en Francais
 author: ''
 date: 2020-04-08T22:00:00.000+00:00
 intro_paragraph: pas d'intro
-categories: ''
+categories: TECH
 lang: fr
 lang_reference: new_post
 lang-ref: new_post
