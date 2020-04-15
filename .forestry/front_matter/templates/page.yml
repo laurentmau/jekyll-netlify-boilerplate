@@ -27,6 +27,15 @@ fields:
   config:
     required: false
   label: lang-ref
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Content
 pages:
 - pages/blog.md
 - pages/categories.md
