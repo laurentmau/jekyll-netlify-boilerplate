@@ -1,5 +1,5 @@
 ---
-label: Blog Post
+label: post
 hide_body: false
 fields:
 - type: text
@@ -20,6 +20,9 @@ fields:
 - type: text
   name: categories
   label: categories
+  config:
+    required: false
+  default: none
 - name: lang
   type: text
   config:
@@ -31,9 +34,6 @@ fields:
     required: false
   label: lang-ref
 pages:
-- _posts/2018-02-23-welcome-to-jekyll.md
-- _posts/2018-07-09-another-post.md
-- _posts/2018-07-19-the-most-recent-post-so-far.md
 - en/_posts/2018-07-11-a-simple-post.md
 - en/_posts/2020-04-08-new-english-post.md
 - fr/_posts/2020-03-31-Ce-que-la-technologie-peut-apporter-(ou-pas)-à-la-résolution-la-crise-de-COVID-19.md
