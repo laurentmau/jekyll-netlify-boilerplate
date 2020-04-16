@@ -85,5 +85,5 @@ exclude:
   - vendor/ruby/
   
   
-  theme: jekyll-theme-example
+gem "jekyll-text-theme"
 
