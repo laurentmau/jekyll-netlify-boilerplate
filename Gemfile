@@ -11,6 +11,8 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.0.0"
 
 gem "minima", "~> 2.5"
+gem "jekyll-text-theme"
+
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
