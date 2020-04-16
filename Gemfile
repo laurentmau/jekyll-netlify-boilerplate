@@ -8,7 +8,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8"
+gem "jekyll", "~> 4.0.0"
+
+gem "minima", "~> 2.5"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -17,7 +19,7 @@ gem "jekyll", "~> 3.8"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'a1426kt_prime_number', '~> 0.0.7'
+#  gem 'a1426kt_prime_number', '~> 0.0.7'
 #  gem "jekyll-menus", "~> 0.6.1"
   #
 end
