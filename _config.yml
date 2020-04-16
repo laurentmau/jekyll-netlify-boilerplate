@@ -54,6 +54,8 @@ defaults:
 
 # Build settings
 markdown: kramdown
+plugins:
+  - jekyll-menus 
 
 # Kramdown options
 kramdown:
