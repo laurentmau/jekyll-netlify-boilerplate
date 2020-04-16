@@ -3,8 +3,9 @@ layout: home
 title: Welcome
 permalink: "/"
 section: home
-intro_paragraph: I've spent last 25 years in IT.
+intro_paragraph: Welcome
 lang: en
 lang-ref: home
+content: ''
 
 ---
