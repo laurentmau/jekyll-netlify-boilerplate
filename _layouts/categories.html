@@ -4,7 +4,7 @@ layout: default
 <div id="archives">
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
-  {% if category_name  != "eng" and category_name != "fr" %}
+  {% if category_name  != "en" and category_name != "fr" %}
     <div class="archive-group">
       <div id="#{{ category_name | slugize }}"></div>
       <h3 class="category-head">{{ category_name }}</h3>
