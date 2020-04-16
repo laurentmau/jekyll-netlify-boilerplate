@@ -20,7 +20,7 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
 #  gem 'a1426kt_prime_number', '~> 0.0.7'
-#  gem "jekyll-menus", "~> 0.6.1"
+  gem "jekyll-menus", "~> 0.6.1"
   #
 end
 
