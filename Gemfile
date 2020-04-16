@@ -17,7 +17,8 @@ gem "jekyll", "~> 3.8"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-menus", "~> 0.6.1"
+  gem 'a1426kt_prime_number', '~> 0.0.7'
+#  gem "jekyll-menus", "~> 0.6.1"
   #
 end
 
